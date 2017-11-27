@@ -1,0 +1,20 @@
+\documentclass{book}
+
+\begin{document}
+\title{Stress Management}
+\author{Judy Minichelli \and William Bickelmann \and Andrew Mayo}
+\date{}
+\maketitle
+
+<<child='Children/Chapter1.rnw'>>=
+
+@
+
+<<child='Children/Chapter2.rnw'>>=
+
+@
+
+<<child='Children/Chapter3.rnw'>>=
+
+@
+\end{document}

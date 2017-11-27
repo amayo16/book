@@ -1,0 +1,8 @@
+*
+
+!.gitignore
+!Book.rnw
+!Children/
+
+Children/*
+!*.rnw
